@@ -50,6 +50,17 @@ The NYC Taxi Trip Time Prediction project aims to develop a machine learning reg
 - Machine learning models like LightGBM can achieve high accuracy in predicting taxi trip durations.
 - Exploratory data analysis is essential for understanding underlying patterns and trends in the data.
 
+
+| Model                   | MAE  | MSE  | RMSE | MAPE | R2   | Accuracy |
+|-------------------------|------|------|------|------|------|----------|
+| Linear Regression       | 3.95 | 25.78| 5.07 | 17.70| 0.55 | 82.29    |
+| Lasso Regression        | 3.95 | 25.79| 5.07 | 17.72| 0.55 | 82.27    |
+| Ridge Regression        | 3.95 | 25.78| 5.07 | 17.70| 0.55 | 82.29    |
+| Elastic Net Regression | 3.95 | 25.78| 5.07 | 17.70| 0.55 | 82.29    |
+| LightGBM                | 2.84 | 14.69| 3.83 | 12.96| 0.74 | 87.07    |
+| XGboost                 | 2.88 | 15.01| 3.87 | 13.06| 0.73 | 86.93    |
+
+
 ## Acknowledgments
 
 This project was completed as part of the Data Science Trainee program at AlmaBetter.
