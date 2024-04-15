@@ -21,9 +21,9 @@ The NYC Taxi Trip Time Prediction project aims to develop a machine learning reg
 
 <p align="left">
     <img src="https://img.shields.io/badge/Model-Linear%20Regression-lightblue" alt="Linear Regression" />
-    <img src="https://img.shields.io/badge/Model-Random%20Forest-darkgreen" alt="Random Forest" />
+    <img src="https://img.shields.io/badge/Model-Lasso%20Regression-darkgreen" alt="Lasso Regression" />
     <img src="https://img.shields.io/badge/Model-XGBoost-critical" alt="XGBoost" />
-    <img src="https://img.shields.io/badge/Model-KNN-brightgreen" alt="KNN" />
+    <img src="https://img.shields.io/badge/Model-Elastic%20Net%20Regression-brightgreen" alt="Elastic Net Regression" />
     <img src="https://img.shields.io/badge/Model-LightGBM-yellowgreen" alt="LightGBM" />
 </p>
 
